@@ -29,7 +29,7 @@ Becuase i wanted to send a file from my local pc to another one, but i saw that 
 
 ## Usage
 
-To use the **jar** program, go in the `out\artifacts\` and execute the command
+To use the **jar** program, go in the `src\gui\jar` and execute the command
 
 `java -jar LFS.jar`  
 
