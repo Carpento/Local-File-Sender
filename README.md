@@ -92,11 +92,24 @@ The "server service" isn't an error, is only the server status service (like the
 Triggered if the connection max timeout is reached or if the server is unavaible (so the client can't reach the server and the timeout start)
 
 ## Hash
-
+### Hash LFS.jar
 MD5 :  f54fcd5c2d5d7b78954af152d2b0a5e1 
 
 SHA-256 : 78b80f25cf522a17c1720a089211dcff10c1974c3291c6344086e91f696e5914
+### Hash LFS.java
+MD5 : ee01f17750cc84f230e84094596da639 
 
+SHA-256 : 1d2e90abc7b4ec31993107322d6a7215f3defba8b1fadffab837e2a622b03730
+
+### Hash Client1.java
+MD5 : 2f6cdcad69a8527749d254507b63a9e6
+
+SHA-256 : ba1670df95fc71577776922eae98820f11adf02c42a375642cc7bb0cd8330130
+
+### Hash Client2.java
+MD5 : 528e4ee19b2c96c23154811d2f529dcb
+
+SHA-256 : 9ebdf5b39cae81f5ea9f8bd3b0c5d4cd473f08e9081c19b5419728170d8cb0d5
 ## Credits
 
 ### Java developer: [Carpento](https://github.com/Carpento)
