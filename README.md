@@ -91,6 +91,12 @@ The "server service" isn't an error, is only the server status service (like the
 
 Triggered if the connection max timeout is reached or if the server is unavaible (so the client can't reach the server and the timeout start)
 
+## Hash
+
+MD5 :  f54fcd5c2d5d7b78954af152d2b0a5e1 
+
+SHA-256 : 78b80f25cf522a17c1720a089211dcff10c1974c3291c6344086e91f696e5914
+
 ## Credits
 
 ### Java developer: [Carpento](https://github.com/Carpento)
